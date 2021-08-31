@@ -1,3 +1,6 @@
+/**
+ * Created by - B A N S
+ */
 import React from 'react';
 import {
   View,
