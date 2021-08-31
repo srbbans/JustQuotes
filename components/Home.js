@@ -133,7 +133,12 @@ const styles = StyleSheet.create({
     height: 80,
   },
   card: {
-    margin: 10,
+    paddingTop: 50,
+    paddingBottom: 50,
+    marginStart: 10,
+    marginEnd: 10,
+    marginTop: 20,
+    marginBottom: 0,
     backgroundColor: AppColors.cardBackgroundColor,
   },
   itemContainer: {
