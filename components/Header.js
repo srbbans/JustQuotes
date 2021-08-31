@@ -1,3 +1,6 @@
+/**
+ * Created by - B A N S
+ */
 import React from 'react'
 import { StyleSheet, NativeModules, Text, View } from 'react-native';
 

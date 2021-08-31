@@ -1,7 +1,5 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
+ * Created by - B A N S
  * @format
  * @flow strict-local
  */

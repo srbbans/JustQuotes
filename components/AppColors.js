@@ -1,3 +1,6 @@
+/**
+ * Created by - B A N S
+ */
 const AppColors = {
     windowBackground: '#2E3440',
     cardBackgroundColor: '#3B4252',
